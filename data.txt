@@ -1,0 +1,12 @@
+Network test #1 at 05/09/2021 08:38:59
+Download: 18.20 Mb/s
+Upload: 11.23 Mb/s
+Ping: 29.783
+Network test #1 at 05/09/2021 08:40:09
+Download: 89.00 Mb/s
+Upload: 10.47 Mb/s
+Ping: 35.575
+Network test #1 at 05/09/2021 08:41:00
+Download: 90.71 Mb/s
+Upload: 11.51 Mb/s
+Ping: 31.565
